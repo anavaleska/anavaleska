@@ -43,8 +43,8 @@
   <img align="center" alt="AnaValeska-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"> - 
   <img align="center" alt="AnaValeska-Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"> -  
   <img align="center" alt="AnaValeska-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"> - 
-    <img align="center" alt="AnaValeska-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg"> - 
-    <img align="center" alt="AnaValeska-Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"> - 
+<!--   <img align="center" alt="AnaValeska-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg"> -  -->
+  <img align="center" alt="AnaValeska-Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"> - 
   <img align="center" alt="AnaValeska-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> -
   <img align="center" alt="AnaValeska-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> -
   <img align="center" alt="AnaValeska-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"> -
